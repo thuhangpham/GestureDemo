@@ -1,0 +1,6 @@
+# Built application files
+/*/build/
+# Gradle files
+.gradle/
+build/
+ 
